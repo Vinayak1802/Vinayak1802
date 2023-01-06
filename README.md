@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Vinayak1802
 - 👀 I’m interested in web dev | Machine learning
-- 🌱 I’m currently learning tailwind CSS
+- 🌱 I’m currently learning web dev
 - 💞️ I’m not looking to collaborate right now , but will definately do when i have learned some skills which can help me upscale in my carrier
 - 📫 you can reach me on twitter on- https://twitter.com/Vinayak_zip
 
